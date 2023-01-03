@@ -49,6 +49,7 @@
     <Compile Include="TestB.cs" />
     <Compile Include="Test_Aditya.cs" />
     <Compile Include="Test_Nitin.cs" />
+    <Compile Include="Test_Nitin_1.cs" />
     <Compile Include="Test_Suraj.cs" />
   </ItemGroup>
   <ItemGroup>
