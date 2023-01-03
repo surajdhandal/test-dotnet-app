@@ -6,9 +6,7 @@ using System.Threading.Tasks;
 
 namespace HelloWorld
 {
-    class TestA
+    class Test_Suraj
     {
-        //Hi A
-        //Hi B
     }
 }

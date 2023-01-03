@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace HelloWorld
 {
-    class TestA
+    class Test_Nitin
     {
         //Hi A
-        //Hi B
     }
 }
